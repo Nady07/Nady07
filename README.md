@@ -15,6 +15,16 @@ Mi enfoque combina el desarrollo de aplicaciones web y móviles con un sólido c
 
 ---
 
+## Frontend Projects
+## Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| **CriptoConferencia** | Plataforma para conferencias de blockchain y criptomonedas en Bolivia | React, Laravel, Bootstrap | [criptoconferencia.net](https://criptoconferencia.net) |
+| **TalentRise** | Plataforma de reclutamiento y descubrimiento de talento en Web3 | React, Web3, TypeScript | [talentrise-io.vercel.app](https://talentrise-io.vercel.app) |
+| **RideFlowFT** | Gestión de flotas y viajes en tiempo real | React, TypeScript, Supabase, Tailwind | [GitHub](https://github.com/Nady97/rideflowft) |
+| **Panadería Artesanal (ERP)** | Sistema de gestión con login y temas dinámicos | Laravel, Blade, Tailwind, JavaScript | [GitHub](https://github.com/Nady97/panaderia) |
+
 ## Stack Tecnológico
 
 ### Frontend
