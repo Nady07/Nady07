@@ -28,6 +28,8 @@ Mi enfoque combina el desarrollo de aplicaciones web y móviles con un sólido c
 |----------|-------------|-------------|--------|
 | **RideFlowFT** | Gestión de flotas y viajes en tiempo real | React, TypeScript, Supabase, Tailwind | [GitHub](https://github.com/Nady97/rideflowft) |
 | **Panadería Artesanal (ERP)** | Sistema de gestión con login y temas dinámicos | Laravel, Blade, Tailwind, JavaScript | [GitHub](https://github.com/Nady97/panaderia) |
+| **NASA Space Apps (Nasa)** | Mapa interactivo para el hackathon NASA Space Apps | JavaScript, Google Maps API | [GitHub](https://github.com/Nady07/Nasa) |
+| **Build With AI (mobile-wati)** | App móvil con IA en Flutter para el hackathon Build With AI 2026 | Flutter, Dart | [GitHub](https://github.com/Wati-BWA/mobile-wati) |
 
 ## Stack Tecnológico
 
