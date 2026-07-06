@@ -1,10 +1,16 @@
 <!-- Cabecera con badges de contacto -->
 <p align="center">
+  <img src="https://tu-enlace-a-la-imagen.com/tu-foto.jpg" alt="Nadia Carvajal" width="180" height="180" style="border-radius: 50%;">
+</p>
+<p align="center">
   <a href="mailto:nadia28.carvajal@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/nadia-carvajal-1763a2270">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nady07">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/Nady97">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -118,6 +124,9 @@ Para consultas profesionales o colaboraciones, puedes contactarme a través de m
   </a>
   <a href="https://www.linkedin.com/in/nadia-carvajal-1763a2270">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nady07">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/Nady97">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
