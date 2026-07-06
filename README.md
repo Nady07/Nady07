@@ -1,66 +1,63 @@
 # Nadia Carvajal
-**Frontend Developer** | React · Flutter · TypeScript
+**Frontend Developer** · React · Flutter · TypeScript
 
 ---
 
-## Sobre mí
+## Perfil Profesional
 
 Desarrolladora frontend con experiencia en la creación de interfaces funcionales, escalables y centradas en el usuario. Especializada en React, Flutter y Laravel, con participación activa en hackathones internacionales como NASA Space Apps y Build With AI.
 
-Además de mi enfoque en desarrollo web, tengo formación en:
-- **Administración de sistemas Linux** (comandos, scripting, compresión, editores)
-- **Bases de datos SQL** (triggers, procedimientos almacenados, auditoría)
-- **Seguridad informática** (pentesting básico con Nmap, WPScan, Hydra)
-- **Redes** (subnetting, configuración de servidores)
+Mi enfoque combina el desarrollo de aplicaciones web y móviles con un sólido conocimiento en administración de sistemas Linux, bases de datos SQL y fundamentos de ciberseguridad. Colaboradora activa en comunidades tecnológicas locales (GDG Santa Cruz, Cursor, Yais) y en constante aprendizaje en áreas como ciencia de datos y computación en la nube.
 
-Colaboradora en comunidades tecnológicas locales (GDG Santa Cruz, Cursor, Yais) y comprometida con el aprendizaje continuo.
-
-- **Correo:** nadcyarvalal@gmail.com
+- **Correo:** nadia28.carvajal@gmail.com
 - **LinkedIn:** linkedin.com/in/nadia-carvajal-1763a2270
 - **GitHub:** github.com/Nady07
 
 ---
 
-## Stack tecnológico
+## Stack Tecnológico
 
-**Frontend**
+### Frontend
 React · TypeScript · JavaScript · Next.js · Flutter · Tailwind CSS · Bootstrap · Laravel Blade
 
-**Backend y bases de datos**
-Laravel · Node.js · Python · PostgreSQL · MySQL · SQL Server (Triggers, Stored Procedures)
+### Backend y Bases de Datos
+Laravel · Node.js · Python · PostgreSQL · MySQL · SQL Server (Triggers, Stored Procedures) · Supabase
 
-**DevOps y herramientas**
-Git · Docker · Vercel · Figma · Linux (Fedora, Ubuntu) · Windows Server
+### DevOps y Herramientas
+Git · Figma · Linux (Fedora, Ubuntu, kali) · Windows Server
 
-**Seguridad y redes**
-Pentesting básico (Nmap, WPScan, Hydra, theHarvester) · Subnetting · VPN (Windscribe)
-
----
-
-## Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| CriptoConferencia | Plataforma para conferencias de blockchain y criptomonedas | React, Laravel, Bootstrap |
-| RideFlowFT | Gestión de flotas y viajes en tiempo real | React, TypeScript, Supabase, Tailwind |
-| NASA Space Apps SCZ | Plataforma para el hackathon NASA Space Apps 2025 | React, Tailwind, Supabase |
-| TalentRise | Plataforma de reclutamiento en Web3 | React, Web3, TypeScript |
-| Comet Coders | Primer lugar en Realidad Aumentada - NASA Space Apps | Flutter, AR, Firebase |
-| Steganografía | Herramienta para ocultar texto con caracteres invisibles | JavaScript, HTML, CSS |
-| Panadería Artesanal (ERP) | Sistema de gestión con login y temas dinámicos | Laravel, Blade, Tailwind, JavaScript |
+### Seguridad y Redes
+Pentesting básico (Nmap, WPScan, Hydra, theHarvester) · Subnetting · VPN
 
 ---
 
-## Logros en hackathones
+## Proyectos Destacados
 
-- Primer lugar - NASA Space Apps 2025 (Comet Coders) - Realidad Aumentada
-- Participante - Build With AI 2025 - App móvil con IA en Flutter
-- Participante - Buildathon 2025 - Diseño y frontend de app móvil
-- Participante - NASA Space Apps 2025 - Monitoreo de incendios forestales
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| **CriptoConferencia** | Plataforma para conferencias de blockchain y criptomonedas en Bolivia | React, Laravel, Bootstrap | [criptoconferencia.net](https://criptoconferencia.net) |
+| **TalentRise** | Plataforma de reclutamiento y descubrimiento de talento en Web3 | React, Web3, TypeScript | [talentrise-io.vercel.app](https://talentrise-io.vercel.app) |
+| **RideFlowFT** | Gestión de flotas y viajes en tiempo real | React, TypeScript, Supabase, Tailwind | [GitHub](https://github.com/Nady97/rideflowft) |
+| **NASA Space Apps SCZ** | Plataforma para el hackathon NASA Space Apps 2025 | React, Tailwind, Supabase | [GitHub](https://github.com/Nady07/nasa-space-apps) |
+| **Comet Coders** | Primer lugar en Realidad Aumentada - NASA Space Apps | Flutter, AR, Firebase | [GitHub](https://github.com/Nady07/comet-coders) |
+| **WTMSantaCruz** | Sitio oficial de WTM Santa Cruz | React, Tailwind CSS | [GitHub](https://github.com/Nady07/wtm-santacruz) |
+| **Steganografía** | Herramienta para ocultar texto con caracteres invisibles | JavaScript, HTML, CSS | [GitHub](https://github.com/Nady07/steganografia) |
+| **Ecotrash** | Sostenibilidad ambiental y gestión de residuos | React Native, Firebase | [GitHub](https://github.com/Nady07/ecotrash) |
+| **Panadería Artesanal (ERP)** | Sistema de gestión con login y temas dinámicos | Laravel, Blade, Tailwind, JavaScript | [GitHub](https://github.com/Nady07/panaderia-erp) |
 
 ---
 
-## Comunidades y voluntariado
+## Logros en Hackathones
+
+- **Participante** - Build With AI 2026 - App movil con AI en Flutter
+- **Participante** - NASA Space Apps 2025 (Comet Coders) - Realidad Aumentada
+- **Participante** - Build With AI 2025 - pagina web
+- **Participante** - Buildathon 2025 - Diseño y frontend de app móvil
+- **Participante** - NASA Space Apps 2025 - Monitoreo de incendios forestales
+
+---
+
+## Comunidades y Voluntariado
 
 | Comunidad | Rol | Periodo |
 |-----------|-----|---------|
@@ -70,12 +67,12 @@ Pentesting básico (Nmap, WPScan, Hydra, theHarvester) · Subnetting · VPN (Win
 
 ---
 
-## Formación académica
+## Formación Académica
 
 **Universidad Autónoma Gabriel René Moreno (UAGRM)**
 Licenciatura en Ingeniería de Sistemas (en curso)
 
-**Cursos y certificaciones relevantes**
+**Cursos y Certificaciones**
 - Google Cloud - Cloud Computing
 - Avalanche - Blockchain Fundamentals
 - Taller Pentesting con Kali 4.0 - The Hacking Project
@@ -83,7 +80,7 @@ Licenciatura en Ingeniería de Sistemas (en curso)
 - Diseño UI/UX con Figma
 - Modelado 3D con Blender
 
-**Áreas de estudio aplicadas**
+**Áreas de Estudio Aplicadas**
 - Administración de sistemas Linux (comandos, compresión, bash scripting)
 - Bases de datos SQL (triggers, procedimientos almacenados, auditoría)
 - Seguridad ofensiva (pentesting básico con herramientas estándar)
@@ -94,6 +91,7 @@ Licenciatura en Ingeniería de Sistemas (en curso)
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Nady07&show_icons=true&theme=default&hide_border=true)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Nady07&layout=compact&theme=default&hide_border=true)
 
 ---
