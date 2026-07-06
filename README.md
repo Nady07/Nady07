@@ -44,7 +44,7 @@ Pentesting básico (Nmap, WPScan, Hydra, theHarvester) · Subnetting · VPN
 
 ## Logros en Hackathones
 
-- **Participante** - Build With AI 2026 - App movil con AI en Flutter
+- **Participante** - Build With AI 2026 - App movil con AI en Flutter https://github.com/Wati-BWA/mobile-wati
 - **Participante** - NASA Space Apps 2025 (Comet Coders) - Realidad Aumentada
 - **Participante** - Build With AI 2025 - pagina web
 - **Participante** - Buildathon 2025 - Diseño y frontend de app móvil
