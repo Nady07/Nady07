@@ -1,6 +1,6 @@
 <!-- Cabecera con badges de contacto -->
 <p align="center">
-  <img src="https://tu-enlace-a-la-imagen.com/tu-foto.jpg" alt="Nadia Carvajal" width="180" height="180" style="border-radius: 50%;">
+  <img src="[https://tu-enlace-a-la-imagen.com/tu-foto.jpg](https://avatars.githubusercontent.com/u/156553382?s=400&u=b6fd75d60f5859ebfc2ae95d1d15046290da66fd&v=4)" alt="Nadia Carvajal" width="180" height="180" style="border-radius: 50%;">
 </p>
 <p align="center">
   <a href="mailto:nadia28.carvajal@gmail.com">
