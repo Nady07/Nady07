@@ -21,6 +21,7 @@ Mi enfoque combina el desarrollo de aplicaciones web y móviles con un sólido c
 |----------|-------------|-------------|--------|
 | **CriptoConferencia** | Plataforma para conferencias de blockchain y criptomonedas en Bolivia | React, Laravel, Bootstrap | [criptoconferencia.net](https://criptoconferencia.net) |
 | **TalentRise** | Plataforma de reclutamiento y descubrimiento de talento en Web3 | React, Web3, TypeScript | [talentrise-io.vercel.app](https://talentrise-io.vercel.app) |
+
 ## Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías | Enlace |
