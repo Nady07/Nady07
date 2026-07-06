@@ -83,14 +83,6 @@ Licenciatura en Ingeniería de Sistemas (en curso)
 
 ---
 
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Nady07&show_icons=true&theme=default&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Nady07&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Contacto
 
 Para consultas profesionales o colaboraciones, puedes contactarme a través de mi correo electrónico o LinkedIn.
