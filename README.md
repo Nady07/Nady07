@@ -31,14 +31,13 @@ Pentesting básico (Nmap, WPScan, Hydra, theHarvester) · Subnetting · VPN
 
 ---
 
-## Proyectos Destacados
+## Comunidades y Voluntariado
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-|----------|-------------|-------------|--------|
-| **CriptoConferencia** | Plataforma para conferencias de blockchain y criptomonedas en Bolivia | React, Laravel, Bootstrap | [criptoconferencia.net](https://criptoconferencia.net) |
-| **TalentRise** | Plataforma de reclutamiento y descubrimiento de talento en Web3 | React, Web3, TypeScript | [talentrise-io.vercel.app](https://talentrise-io.vercel.app) |
-| **RideFlowFT** | Gestión de flotas y viajes en tiempo real | React, TypeScript, Supabase, Tailwind | [GitHub](https://github.com/Nady97/rideflowft) |
-| **Panadería Artesanal (ERP)** | Sistema de gestión con login y temas dinámicos | Laravel, Blade, Tailwind, JavaScript | [GitHub](https://github.com/Nady07/panaderia-erp) |
+| Comunidad | Rol | Periodo |
+|-----------|-----|---------|
+| GDG Santa Cruz | Voluntaria | 2025 - 2026 |
+| Cursor | Voluntaria | 2025 - 2026 |
+| Yais | Staff de logística | 2025 - 2026 |
 
 ---
 
@@ -49,18 +48,6 @@ Pentesting básico (Nmap, WPScan, Hydra, theHarvester) · Subnetting · VPN
 - **Participante** - Build With AI 2025 - pagina web
 - **Participante** - Buildathon 2025 - Diseño y frontend de app móvil
 - **Participante** - NASA Space Apps 2025 - Monitoreo de incendios forestales
-
----
-
-## Comunidades y Voluntariado
-
-| Comunidad | Rol | Periodo |
-|-----------|-----|---------|
-| GDG Santa Cruz | Voluntaria | 2025 - 2026 |
-| Cursor | Voluntaria | 2025 - 2026 |
-| Yais | Staff de logística | 2025 - 2026 |
-
----
 
 ## Formación Académica
 
