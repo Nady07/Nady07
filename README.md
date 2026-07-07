@@ -74,11 +74,10 @@ Mi enfoque combina el desarrollo de aplicaciones web y móviles con conocimiento
 
 ---
 
-## Comunidades y Voluntariado
+## Comunidades y Voluntariados más frecuentes 
 
 | Comunidad | Rol | Periodo |
 |-----------|-----|---------|
-| GDG Santa Cruz | Voluntaria | 2025 - 2026 |
 | Cursor | Voluntaria | 2025 - 2026 |
 | Yais | Staff de logística | 2025 - 2026 |
 
