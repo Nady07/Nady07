@@ -26,7 +26,7 @@
 
 Desarrolladora frontend con experiencia en la creación de interfaces funcionales, escalables y centradas en el usuario. Especializada en **React, Flutter y Laravel**, con participación activa en hackathones internacionales como **NASA Space Apps** y **Build With AI**.
 
-Mi enfoque combina el desarrollo de aplicaciones web y móviles con un sólido conocimiento en administración de sistemas Linux, bases de datos SQL y fundamentos de ciberseguridad. Colaboradora activa en comunidades tecnológicas locales (GDG Santa Cruz, Cursor, Yais) y en constante aprendizaje en áreas como ciencia de datos y computación en la nube.
+Mi enfoque combina el desarrollo de aplicaciones web y móviles con conocimiento en administración de sistemas Linux, bases de datos SQL y fundamentos de ciberseguridad. Colaboradora activa en comunidades tecnológicas locales ( Cursor, Yais) y en constante aprendizaje en áreas como ciencia de datos.
 
 ---
 ## Frontend Projects
