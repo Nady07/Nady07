@@ -26,7 +26,7 @@
 
 Desarrolladora frontend con experiencia en la creación de interfaces funcionales, escalables y centradas en el usuario. Especializada en **React, Flutter y Laravel**, con participación activa en hackathones  como **NASA Space Apps**  **Build With AI** **Buildathon**.
 
-Mi enfoque combina el desarrollo de aplicaciones web y móviles con conocimiento en administración de sistemas Linux, bases de datos SQL y fundamentos de ciberseguridad. Colaboradora activa en comunidades tecnológicas locales ( Cursor, Yais) y en constante aprendizaje en áreas como ciencia de datos.
+Mi enfoque combina el desarrollo de aplicaciones web y móviles con conocimiento basicos en administración de sistemas Linux, bases de datos SQL y fundamentos de ciberseguridad. Colaboradora activa en comunidades tecnológicas locales (Cursor, Yais, GDG Santa Cruz) y en constante aprendizaje de nuevas tecnologías, con especial interés en inteligencia artificial y computación en la nube.
 
 ---
 ## Frontend Projects
@@ -82,8 +82,16 @@ Mi enfoque combina el desarrollo de aplicaciones web y móviles con conocimiento
 | Yais | Staff de logística | 2025 - 2026 |
 
 ---
+## Voluntariados
+- Yais 
+- Cursor
+- Ethereun
+- GdG
+- Wtm
+- Blockchain Bolivia
+- Cripto conferencia
 
-## Logros en Hackathones
+## Hackathones
 
 - **Participante** - Build With AI 2026 - App movil con AI en Flutter https://github.com/Wati-BWA/mobile-wati
 - **Participante** - NASA Space Apps 2025 (Comet Coders) - Realidad Aumentada
