@@ -63,7 +63,6 @@ Mi enfoque combina el desarrollo de aplicaciones web y móviles con conocimiento
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
 </p>
 
 ### DevOps y Herramientas
@@ -71,7 +70,6 @@ Mi enfoque combina el desarrollo de aplicaciones web y móviles con conocimiento
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -99,7 +97,7 @@ Mi enfoque combina el desarrollo de aplicaciones web y móviles con conocimiento
 **Universidad Autónoma Gabriel René Moreno (UAGRM)**
 Licenciatura en Ingeniería de Sistemas (en curso)
 
-**Cursos y Certificaciones**
+**Cursos**
 - Google Cloud - Cloud Computing
 - Avalanche - Blockchain Fundamentals
 - Taller Pentesting con Kali 4.0 - The Hacking Project
